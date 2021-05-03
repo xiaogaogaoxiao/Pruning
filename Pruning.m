@@ -1,3 +1,5 @@
+% 2020.12.15
+
 function Pruned_NN = Pruning(NN, Pruning_Location)
 
 Transfer_NN = NN.saveobj;
