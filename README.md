@@ -7,4 +7,4 @@ Inputs: NN, Pruning_Location
 
 NN is the DAG Network trained, which is read only.
 
-Pruning_Location is the location that you want to prune the weight.
+Pruning_Location is the location that you want to prune the weigh and the type is cell.
